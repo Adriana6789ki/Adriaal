@@ -1,0 +1,24 @@
+input[type="text3"],select,textarea{
+    width: 97%;
+    padding: 10px;
+    border:2px solid#45a840;
+    border-radius: 20px;
+    resize: vertical;
+    align-content: center;
+}
+input[type="text2"],select,textarea{
+    width: 15.5%;
+    padding: 10px;
+    border:2px solid #45a840;
+    border-radius: 20px;
+    resize: vertical;
+    align-content: center;
+}
+
+input [type="textT1"],select,textarea{
+    width: 80%;
+    padding: 10px ;
+    border: 2px solid #45a840;
+    border-radius: 20px;
+    resize: vertical;
+    align-content: center;
